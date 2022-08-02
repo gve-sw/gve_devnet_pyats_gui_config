@@ -1,4 +1,4 @@
-# GVE DevNet pyATS Greenbay Packaging Demo
+# GVE DevNet pyATS GUI Config
 
 ## Contacts
 * Charles Llewellyn (chllewel@cisco.com)
@@ -32,7 +32,7 @@ The following commands are executed in the terminal.
      
 2. Access the cloned folder
        
-       $ cd Greenbay_Packaging_Demo
+       $ cd gve_devnet_pyats_gui_config
         
 3. Create and activate a virtual environment for the project:
    
